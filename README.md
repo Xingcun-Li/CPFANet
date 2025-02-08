@@ -17,7 +17,7 @@ If you use the code in your work, please kindly cite it as follows:
 
 ```bibtex
 @misc{N/A,  
-  author = {Li et al.},  
+  authors = {Li et al.},  
   title = {CPFANet: Contextual Perception Feature Aggregation-Based Transformer for Polyp Segmentation},  
   year = {2025},  
   journal = {N/A (Work not yet published, please check back for updates)}  
