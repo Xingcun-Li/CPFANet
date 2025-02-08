@@ -15,4 +15,9 @@ If you have your own model code and weights, place the code in the `./lib` direc
 ## Citation
 If you use the code in your work, please kindly cite it as follows:
 
-@misc{N/A, author = {Author(s)}, title = {CPFANet: Contextual Perception Feature Aggregation-Based Transformer for Polyp Segmentation}, year = {2025}, howpublished = {\url{https://github.com/your-repository-link}}, note = {N/A (Work not yet published, please check back for updates)} }
+@misc{N/A,
+author = {Li et al.},
+title = {CPFANet: Contextual Perception Feature Aggregation-Based Transformer for Polyp Segmentation},
+year = {2025},
+journal = {N/A (Work not yet published, please check back for updates)}
+}
