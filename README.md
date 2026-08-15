@@ -1,4 +1,4 @@
-# CPFANet: Contextual Perception Feature Aggregation-Based Transformer for Polyp Segmentation
+# CPFANet: Contextual Perception Feature Aggregation Transformer for Polyp Segmentation
 
 ## Step 1: Dataset Preparation
 Ensure that the dataset is stored under `./data/polypSegDataset` and follows the dataset division as per the PraNet standard. The training dataset should be placed under `./TrainDataset`, with image paths in `./TrainDataset/images` and label paths in `./TrainDataset/masks`. The testing dataset should be placed under `./TestDataset`, containing five test subfolders, each of which should have `/images` and `/masks` folders.
